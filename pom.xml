@@ -12,6 +12,7 @@
 
     <modules>
         <module>01-hw-basicandsecured</module>
+        <module>02-hw-hashingandencdec</module>
     </modules>
 
     <properties>
