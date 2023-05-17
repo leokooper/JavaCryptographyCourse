@@ -1,7 +1,6 @@
 import enums.CodecMode;
 
 import javax.crypto.*;
-import java.io.UnsupportedEncodingException;
 import java.security.*;
 import java.util.Locale;
 import java.util.Scanner;
@@ -9,6 +8,7 @@ import java.util.Scanner;
 import static utils.CodecUtils.*;
 
 public class Main {
+
     public static void main(String[] args) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, InvalidAlgorithmParameterException {
 
         System.out.println("Введите данные для вычисления hash-суммы, кодирования и декодирования");
