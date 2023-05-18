@@ -15,6 +15,7 @@
         <module>02-hw-hashingandencdec</module>
         <module>03-hw-asynccipherandsignature</module>
         <module>04-hw-pbeandecc</module>
+        <module>05-hw-keystore</module>
     </modules>
 
     <properties>
