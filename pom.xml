@@ -16,6 +16,7 @@
         <module>03-hw-asynccipherandsignature</module>
         <module>04-hw-pbeandecc</module>
         <module>05-hw-keystore</module>
+        <module>06-graduation-project</module>
     </modules>
 
     <properties>
